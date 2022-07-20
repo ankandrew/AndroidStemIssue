@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name" translatable="false">AndroidStemIssue</string>
+  <string name="app_name_wrapper">App name -> ${app_name}</string>
+</resources>
